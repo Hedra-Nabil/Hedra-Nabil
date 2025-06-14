@@ -4,7 +4,7 @@ Hi, I'm **Hedra Nabil** – a passionate developer and tech enthusiast. I love b
 
 ## 🛠 Languages & Skills:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Java/Java-original.svg" height="30" alt="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
