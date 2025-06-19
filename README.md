@@ -30,7 +30,7 @@ Hi, I'm **Hedra Nabil** – a passionate developer and tech enthusiast. I love b
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" style="margin-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ IDEA" style="margin-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git Workbench" style="margin-right: 10px;" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="Visual Studio Code" />
 </p>
 
