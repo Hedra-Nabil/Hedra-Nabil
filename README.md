@@ -1,57 +1,135 @@
-## 👨‍💻 About Me
-
-Hi, I'm **Hedra Nabil** – a passionate developer and tech enthusiast specialized in building cross-platform solutions.
-## 🛠 Skills & Technologies
-
-### Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="24" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" title="PHP"/>
-</p>
-
-### Mobile & Web Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24" title="Android"/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" title="JavaScript"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="24" title="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="24" title="PyCharm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="24" title="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="24" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" title="MySQL"/>
-</p>
-
-## 📊 GitHub Stats
+# 👋 Welcome to My Digital Workspace
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&theme=radical"/>
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hedra+Nabil+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer;Cross-Platform+Specialist;Tech+Enthusiast+%26+Problem+Solver)
+
 </div>
 
-## 📬 Contact
+---
 
-<p align="center">
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🎯 **Quick Access to My Best Work**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 **Mobile Development**
+- **[Project Name 1](https://github.com/Hedra-Nabil/project1)** - Flutter app description
+- **[Project Name 2](https://github.com/Hedra-Nabil/project2)** - Android native app
+- **[Project Name 3](https://github.com/Hedra-Nabil/project3)** - Cross-platform solution
+
+</td>
+
+
+</tr>
+</table>
+
+---
+
+## 👨‍💻 About Me
+
+> **Passionate Developer | Cross-Platform Specialist | Tech Innovator**
+
+I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scalable, efficient solutions across multiple platforms. With expertise spanning mobile, web, and backend development, I transform complex problems into elegant, user-friendly applications.
+
+**🎯 What drives me:**
+- Building impactful software that solves real-world problems
+- Exploring cutting-edge technologies and frameworks
+- Contributing to open-source communities
+- Mentoring fellow developers and sharing knowledge
+
+---
+
+## 🛠 Technical Arsenal
+
+<div align="center">
+
+### **Core Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart,php" />
+</p>
+
+### **Mobile & Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,android,html,css,js,bootstrap" />
+</p>
+
+### **Backend & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,sqlite,postman" />
+</p>
+
+### **Development Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker,arduino" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🌟 What I'm Currently Working On
+
+- 🔭 **Exploring:** Advanced Flutter animations and state management
+- 🌱 **Learning:** Cloud architecture and microservices
+- 👯 **Collaborating:** Open-source mobile development projects
+- 💬 **Ask me about:** Flutter, Laravel, Mobile app architecture
+- ⚡ **Fun fact:** I love turning coffee into code! ☕➡️💻
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedra-Nabil&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 📬 Let's Connect & Collaborate
+
+<div align="center">
+
+**Ready to build something amazing together?**
+
+<p>
   <a href="mailto:hedranabil614@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/201064456538">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/hedra-nabil-6043221a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hedra-Nabil&color=blueviolet" alt="Profile Views"/>
+</div>
+
+### 💫 *"Great software is built by passionate developers who never stop learning"*
+
+</div>
