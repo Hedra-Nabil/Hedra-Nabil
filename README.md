@@ -21,9 +21,9 @@
 <td width="50%">
 
 ### 📱 **Mobile Development**
-- **[Project Name 1](https://github.com/Hedra-Nabil/project1)** - Flutter app description
-- **[Project Name 2](https://github.com/Hedra-Nabil/project2)** - Android native app
-- **[Project Name 3](https://github.com/Hedra-Nabil/project3)** - Cross-platform solution
+- **[BMI App](https://github.com/Hedra-Nabil/BMI_App)** - BMI App using flutter 
+- **[Movie App](https://github.com/Hedra-Nabil/movie_app)** - Movie App using flutter 
+- **[To Do App](https://github.com/Hedra-Nabil/To-Do_App)** - To Do App using flutter 
 
 </td>
 
