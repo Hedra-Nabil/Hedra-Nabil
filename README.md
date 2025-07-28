@@ -68,7 +68,7 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 ### **Development Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,idea,pycharm,docker,arduino" />
 </p>
 
 </div>
