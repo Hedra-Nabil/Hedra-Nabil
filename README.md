@@ -86,6 +86,11 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <strong>📦 Total Repositories (Public + Private): 15</strong>
+</div>
+
+
 ---
 
 ## 🌟 What I'm Currently Working On
