@@ -58,7 +58,7 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 ### **Mobile & Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,android,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=flutter,html,css,js,bootstrap" />
 </p>
 
 ### **Backend & Frameworks**
