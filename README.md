@@ -87,7 +87,7 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 </div>
 
 <div align="center">
-  <strong>📦 Total Repositories (Public + Private): 15</strong>
+  <strong>📦 Total Repositories (Public + Private): 22</strong>
 </div>
 
 
