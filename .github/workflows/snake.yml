@@ -9,7 +9,7 @@ on:
       - main
 
 permissions:
-  contents: write   # 👈 دي أهم حاجة، بتسمح للـ workflow يكتب في الريبو
+  contents: write   # 👈 تسمح للـ workflow يكتب في الريبو
 
 jobs:
   build:
@@ -19,11 +19,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake animation
+      - name: Generate Snake animations
         uses: Platane/snk@v3
         with:
           github_user_name: Hedra-Nabil
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+            dist/snake-color.svg?color_snake=#ff6b6b&color_dots=#628fdb,#8bc34a,#ffc107,#e91e63
 
       - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
