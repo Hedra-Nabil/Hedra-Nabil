@@ -2,11 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # يشتغل كل 12 ساعة
-  workflow_dispatch:          # تقدر تشغله مانيوال من Actions
+    - cron: "0 */12 * * *"   # كل 12 ساعة
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write   # 👈 دي أهم حاجة، بتسمح للـ workflow يكتب في الريبو
 
 jobs:
   build:
