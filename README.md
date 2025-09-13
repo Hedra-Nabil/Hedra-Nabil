@@ -110,6 +110,12 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 </div>
 
 ---
+<div align="center">
+
+![Snake animation](https://github.com/Hedra-Nabil/Hedra-Nabil/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+---
 
 ## 📬 Let's Connect & Collaborate
 
