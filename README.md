@@ -8,31 +8,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎯 **Quick Access to My Best Work**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 📱 **Mobile Development**
-- **[BMI App](https://github.com/Hedra-Nabil/BMI_App)** - BMI App using flutter 
-- **[Movie App](https://github.com/Hedra-Nabil/movie_app)** - Movie App using flutter 
-- **[To Do App](https://github.com/Hedra-Nabil/To-Do_App)** - To Do App using flutter 
-
-</td>
-
-
-</tr>
-</table>
-
----
-
 ## 👨‍💻 About Me
 
 > **Passionate Developer | Cross-Platform Specialist | Tech Innovator**
@@ -51,75 +26,234 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 <div align="center">
 
-### **Core Programming Languages**
+### **📱 Mobile Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart,php" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
 </p>
 
-### **Mobile & Frontend Development**
+### **🎨 Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux" />
 </p>
 
-### **Backend & Frameworks**
+### **⚙️ Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,sqlite,postman" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,graphql" />
 </p>
 
-### **Development Tools & Platforms**
+### **🗄️ Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,idea,pycharm,docker,arduino" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" />
+</p>
+
+### **🔧 Development Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,xd" />
+</p>
+
+### **☁️ Cloud & Services**
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,netlify,aws,gcp" />
+</p>
+
+### **📦 Package Managers**
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,yarn,gradle" />
+</p>
+
+### **🧪 Testing**
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,cypress" />
+</p>
+
+### **📚 Other Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hedra-Nabil&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+---
+
+## 📊 GitHub Statistics Overview
 
 <div align="center">
-  <strong>📦 Total Repositories (Public + Private): 22</strong>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight&hide_border=true&background=0d1117"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedra-Nabil&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=true&title_color=58a6ff" />
+</div>
+
+---
+
+## 🔥 Contribution Heatmap (Annual Overview)
+
+<div align="center">
+  <img src="https://github-contributions.vercel.app/api/v1/Hedra-Nabil?format=svg&color=0bd2f7&bg=0d1117&border_radius=10&combine_all_yearly_contributions=true&theme=dark&type=3d" 
+       alt="GitHub Contribution Heatmap" 
+       width="90%" 
+       style="border-radius: 10px; background-color: #0d1117; padding: 10px;"/>
 </div>
 
 
 ---
 
-## 🌟 What I'm Currently Working On
 
-- 🔭 **Exploring:** Advanced Flutter animations and state management
-- 🌱 **Learning:** Cloud architecture and microservices
-- 👯 **Collaborating:** Open-source mobile development projects
-- 💬 **Ask me about:** Flutter, Laravel, Mobile app architecture
-- ⚡ **Fun fact:** I love turning coffee into code! ☕➡️💻
 
----
 
-## 📈 Contribution Activity
+## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedra-Nabil&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" />
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**Compact View**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</td>
+<td width="50%" align="center">
+
+**Donut View**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
+
+## 🎯 Featured Projects & Most Active Repositories
+
+<div align="center">
+
+### 📱 **Mobile Development Showcase**
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/Hedra-Nabil/BMI_App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=BMI_App&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+**BMI Calculator App**
+- Built with Flutter & Dart
+- Clean UI/UX Design
+- Real-time calculations
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/Hedra-Nabil/movie_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=movie_app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+**Movie Discovery App**
+- API Integration
+- Modern Flutter architecture
+- Smooth animations
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" colspan="2">
+
+<a href="https://github.com/Hedra-Nabil/To-Do_App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=To-Do_App&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+**Task Management App**
+- State Management
+- Local Storage
+- Material Design
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Repository & Social Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Repos-22-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/Hedra-Nabil?label=Followers&style=for-the-badge&logo=github&color=blue&labelColor=000000" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/Hedra-Nabil?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow&labelColor=000000" />
+</td>
+</tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=Hedra-Nabil&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-light.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-color.svg" />
+  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-dark.svg" />
 </picture>
 
 </div>
 
+---
+
+## 🌟 What I'm Currently Working On
+
+<div align="center">
+
+| 🔭 Exploring | 🌱 Learning | 👯 Collaborating | 💬 Ask me about |
+|:---:|:---:|:---:|:---:|
+| Advanced Flutter animations & state management | Cloud architecture & microservices | Open-source mobile projects | Flutter, Laravel, Mobile architecture |
+
+**⚡ Fun fact:** I love turning coffee into code! ☕➡️💻
+
+</div>
 
 ---
 
@@ -143,10 +277,8 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hedra-Nabil&color=blueviolet" alt="Profile Views"/>
-</div>
-
 ### 💫 *"Great software is built by passionate developers who never stop learning"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
