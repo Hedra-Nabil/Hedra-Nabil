@@ -2,8 +2,11 @@ name: Generate Dark Contribution Heatmap
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # يحدث كل يوم الساعة 00:00 UTC
-  workflow_dispatch:       # تشغيل يدوي من واجهة GitHub Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ يسمح للـ bot إنه يعمل push للريبو
 
 jobs:
   build:
@@ -11,16 +14,16 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4   # ✅ ضروري علشان يقدر يحفظ الملف في الريبو
+        uses: actions/checkout@v4
 
       - name: Generate Heatmap (3D Dark)
         uses: yoshi389111/github-profile-3d-contrib@0.7.0
         with:
           username: Hedra-Nabil
-          theme: github-dark  # ثيم دارك احترافي
+          theme: github-dark
 
       - name: Upload Heatmap Artifact
-        uses: actions/upload-artifact@v4   # ✅ الإصدار الجديد الصحيح
+        uses: actions/upload-artifact@v4
         with:
           name: 3d-contrib
           path: ./profile-3d-contrib
