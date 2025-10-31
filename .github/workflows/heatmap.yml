@@ -2,11 +2,11 @@ name: Generate Dark Contribution Heatmap
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # تحديث يومي
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ يسمح للـ bot إنه يعمل push للريبو
+  contents: write
 
 jobs:
   build:
@@ -16,11 +16,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Heatmap (3D Dark)
-        uses: yoshi389111/github-profile-3d-contrib@0.7.0
-        with:
-          username: Hedra-Nabil
-          theme: github-dark
+      - name: Generate 3D Dark Heatmap
+        uses: yoshi389111/github-profile-3d-contrib@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ حل مشكلة التوكن
+          USERNAME: Hedra-Nabil                      # ✅ اسم المستخدم بتاعك
+          THEME: github-dark                         # ✅ الثيم الداكن
 
       - name: Upload Heatmap Artifact
         uses: actions/upload-artifact@v4
