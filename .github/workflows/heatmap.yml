@@ -2,14 +2,17 @@ name: Generate Dark Contribution Heatmap
 
 on:
   schedule:
-    - cron: "0 0 * * *" # يحدث كل يوم تلقائياً
-  workflow_dispatch: # تشغيل يدوي
+    - cron: "0 0 * * *"  # يحدث كل يوم الساعة 00:00 UTC
+  workflow_dispatch:       # تشغيل يدوي من واجهة GitHub Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4   # ✅ ضروري علشان يقدر يحفظ الملف في الريبو
+
       - name: Generate Heatmap (3D Dark)
         uses: yoshi389111/github-profile-3d-contrib@0.7.0
         with:
@@ -17,7 +20,15 @@ jobs:
           theme: github-dark  # ثيم دارك احترافي
 
       - name: Upload Heatmap Artifact
-        uses: actions/upload-artifact@v4   # ✅ تم التحديث من v3 إلى v4
+        uses: actions/upload-artifact@v4   # ✅ الإصدار الجديد الصحيح
         with:
           name: 3d-contrib
           path: ./profile-3d-contrib
+
+      - name: Commit and Push Generated Files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ./profile-3d-contrib
+          git commit -m "Update: daily dark 3D contribution heatmap" || echo "No changes to commit"
+          git push
