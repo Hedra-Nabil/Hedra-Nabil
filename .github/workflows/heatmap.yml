@@ -1,0 +1,21 @@
+name: Generate Dark Contribution Heatmap
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # يحدث كل يوم
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Heatmap
+        uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        with:
+          username: Hedra-Nabil
+          theme: github-dark
+      - name: Upload Heatmap
+        uses: actions/upload-artifact@v3
+        with:
+          name: 3d-contrib
+          path: ./profile-3d-contrib
