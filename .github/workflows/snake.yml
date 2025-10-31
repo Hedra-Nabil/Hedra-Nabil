@@ -1,34 +1,30 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # كل 12 ساعة
+    - cron: "0 */12 * * *" # كل 12 ساعة
   workflow_dispatch:
   push:
     branches:
       - main
-
-permissions:
-  contents: write   # 👈 تسمح للـ workflow يكتب في الريبو
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo content
         uses: actions/checkout@v3
 
-      - name: Generate Snake animations
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Hedra-Nabil
           outputs: |
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
-            dist/snake-color.svg?color_snake=#ff6b6b&color_dots=#628fdb,#8bc34a,#ffc107,#e91e63
 
-      - name: Upload to GitHub Pages
+      - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
