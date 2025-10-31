@@ -114,12 +114,11 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 <div align="center" style="background-color: #0d1117; border-radius: 12px; padding: 20px;">
   <img 
-       src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/profile-3d-contrib/profile-night-view.svg"
+       src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/main/profile-3d-contrib/profile-night-view.svg"
        alt="GitHub Contribution Heatmap 3D Dark"
        width="90%" 
        style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 204, 0.25);"/>
 </div>
-
 
 ---
 
