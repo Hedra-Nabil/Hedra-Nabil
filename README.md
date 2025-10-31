@@ -112,12 +112,14 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 ## 🔥 Contribution Heatmap (Annual Overview)
 
-<div align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/Hedra-Nabil?format=svg&color=0bd2f7&bg=0d1117&border_radius=10&combine_all_yearly_contributions=true&theme=dark&type=3d" 
+<div align="center" style="background-color: #0d1117; border-radius: 12px; padding: 20px;">
+  <img 
+       src="https://github-contributions.vercel.app/api/v1/Hedra-Nabil?format=svg&color=00ffcc&bg=0d1117&border_radius=10&combine_all_yearly_contributions=true&theme=dark&type=3d" 
        alt="GitHub Contribution Heatmap" 
        width="90%" 
-       style="border-radius: 10px; background-color: #0d1117; padding: 10px;"/>
+       style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 204, 0.25);"/>
 </div>
+
 
 
 ---
