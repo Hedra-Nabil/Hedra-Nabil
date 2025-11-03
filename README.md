@@ -21,57 +21,58 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 - Mentoring fellow developers and sharing knowledge
 
 ---
-
 ## 🛠 Technical Arsenal
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 Mobile Development</h3>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend Development</h3>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend Development</h3>
+      <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,graphql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" />
+    </td>
+    <td align="center">
+      <h3>🔧 Dev Tools & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,xd" />
+    </td>
+    <td align="center">
+      <h3>☁️ Cloud & Services</h3>
+      <img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,netlify,aws,gcp" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>📦 Package Managers</h3>
+      <img src="https://skillicons.dev/icons?i=npm,yarn,gradle" />
+    </td>
+    <td align="center">
+      <h3>🧪 Testing</h3>
+      <img src="https://skillicons.dev/icons?i=jest,cypress" />
+    </td>
+    <td align="center">
+      <h3>📚 Other Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+    </td>
+  </tr>
+</table>
 
-### **📱 Mobile Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
-</p>
+---
 
-### **🎨 Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux" />
-</p>
+## 💡 Flutter Expertise
 
-### **⚙️ Backend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,graphql" />
-</p>
-
-### **🗄️ Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" />
-</p>
-
-### **🔧 Development Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,xd" />
-</p>
-
-### **☁️ Cloud & Services**
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,netlify,aws,gcp" />
-</p>
-
-### **📦 Package Managers**
-<p>
-  <img src="https://skillicons.dev/icons?i=npm,yarn,gradle" />
-</p>
-
-### **🧪 Testing**
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,cypress" />
-</p>
-
-### **📚 Other Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
-</p>
-
-</div>
+<p align="center"> </p> <table> <tr> <td align="center" width="33%"> <b>🧩 State Management</b><br/> Cubit / Bloc<br/><small>(state transitions, side-effects)</small> </td> <td align="center" width="33%"> <b>⚙️ Other State Tools</b><br/> Provider, Riverpod, GetX </td> <td align="center" width="33%"> <b>🎨 Animation & UI</b><br/> CustomPainter, Animations, Lottie </td> </tr> <tr> <td align="center"> <b>💾 Local Storage</b><br/> Hive, SQLite, SharedPreferences </td> <td align="center"> <b>🔌 Native Integration</b><br/> Platform Channels, USB-OTG<br/><small>(servo, mic, speaker)</small> </td> <td align="center"> <b>🚀 Performance</b><br/> Lazy-loading, isolates, rebuild optimization </td> </tr> <tr> <td align="center" colspan="3"> <b>📦 Deployment & CI/CD</b><br/> Firebase App Distribution, Fastlane, CI pipelines </td> </tr> </table>
 
 ---
 
