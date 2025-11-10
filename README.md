@@ -91,10 +91,10 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=7200"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=7200"/>
 </td>
 </tr>
 </table>
