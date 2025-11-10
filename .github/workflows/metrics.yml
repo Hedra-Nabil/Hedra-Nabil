@@ -18,7 +18,7 @@ jobs:
     permissions:
       contents: write # مهم جداً عشان الـ Action يقدر يعمل commit للصورة
     steps:
-      - uses: lowlighter/metrics@v3
+      - uses: lowlighter/metrics@latest
         with:
           # ----- الإعدادات الأساسية -----
           user: Hedra-Nabil
