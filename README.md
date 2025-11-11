@@ -102,7 +102,7 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 </table>
 
 </div>
-  حاسس ان الارقام ثابته ومش بتتغير 
+  
 ---
 
 ## 📈 Contribution Activity Graph
