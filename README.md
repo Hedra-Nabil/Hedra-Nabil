@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-> **Passionate Developer | Cross-Platform Specialist | Tech Innovator**
+> **Passionate Developer  | Cross-Platform Specialist  | Tech Innovator**
 
 I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scalable, efficient solutions across multiple platforms. With expertise spanning mobile, web, and backend development, I transform complex problems into elegant, user-friendly applications.
 
