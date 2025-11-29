@@ -208,7 +208,7 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 ---
 
-## 📊 Repository & Social Statistics
+## 📊 Repository & Social Statistics 
 
 <div align="center">
 
