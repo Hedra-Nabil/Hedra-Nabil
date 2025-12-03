@@ -138,14 +138,14 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 **Compact View**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400&size_weight=0.5&count_weight=0.5"/>
 
 </td>
 <td width="50%" align="center">
 
 **Donut View**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400&size_weight=0.5&count_weight=0.5"/>
 
 </td>
 </tr>
