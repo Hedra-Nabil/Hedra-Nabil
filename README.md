@@ -90,13 +90,16 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 <div align="center">
 
+<!-- Auto-generated GitHub Metrics (updated every 4 hours) -->
+<img src="./github-metrics.svg" alt="Comprehensive GitHub statistics including contribution history, language usage, and activity metrics" width="100%"/>
+
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub repository and contribution statistics"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub contribution streak statistics"/>
 </td>
 </tr>
 </table>
@@ -138,14 +141,14 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 **Compact View**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400&size_weight=0.5&count_weight=0.5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400&size_weight=0.5&count_weight=0.5" alt="Top Languages (Compact)"/>
 
 </td>
 <td width="50%" align="center">
 
 **Donut View**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400&size_weight=0.5&count_weight=0.5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400&size_weight=0.5&count_weight=0.5" alt="Top Languages (Donut)"/>
 
 </td>
 </tr>
