@@ -59,42 +59,44 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 <p align="center"><b>📦 Deployment & CI/CD:</b> Firebase App Distribution, Fastlane, CI pipelines</p>
 
 ---
+
 ## 🏆 Achievements & Stats
 
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hedra-Nabil&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hedra-Nabil&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7" width="80%"/>
 </a>
 <br/><br/>
 
-<img src="./profile-summary-card-output/tokyo_night/0-profile-details.svg" alt="Profile Details" />
+<img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="60%" />
 
 <br/>
 
 <table>
   <tr>
     <td align="center">
-      <img src="./profile-summary-card-output/tokyo_night/2-most-commit-language.svg" alt="Most Committed Lang" />
+      <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Committed Lang" width="90%"/>
     </td>
     <td align="center">
-      <img src="./profile-summary-card-output/tokyo_night/1-repos-per-language.svg" alt="Repos per Lang" />
+      <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Lang" width="90%"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-       <img src="./profile-summary-card-output/tokyo_night/3-stats.svg" alt="Stats" width="100%" />
+       <img src="./profile-summary-card-output/2077/3-stats.svg" alt="Stats" width="60%" />
     </td>
   </tr>
 </table>
 
 </div>
+
 ---
 
 ## 🔥 Contribution Heatmap
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/main/profile-3d-contrib/profile-night-view.svg" alt="3D Heatmap" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/main/profile-3d-contrib/profile-night-view.svg" alt="3D Heatmap" width="80%"/>
 </div>
 
 ---
