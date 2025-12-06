@@ -63,32 +63,30 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hedra-Nabil&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hedra-Nabil&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+</a>
 <br/><br/>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats"/>
-    </td>
-  </tr>
-</table>
+<img src="./profile-summary-card-output/tokyo_night/0-profile-details.svg" alt="Profile Details" />
+
+<br/>
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+    <td align="center">
+      <img src="./profile-summary-card-output/tokyo_night/2-most-commit-language.svg" alt="Most Committed Lang" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages Donut"/>
+    <td align="center">
+      <img src="./profile-summary-card-output/tokyo_night/1-repos-per-language.svg" alt="Repos per Lang" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+       <img src="./profile-summary-card-output/tokyo_night/3-stats.svg" alt="Stats" width="100%" />
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedra-Nabil&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=true&title_color=58a6ff" />
 
 </div>
 ---
