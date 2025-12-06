@@ -1,56 +1,41 @@
-# .github/workflows/metrics.yml
-
 name: GitHub Metrics
 on:
-  # هيشتغل أوتوماتيك كل 4 ساعات
+  # تحديث كل 24 ساعة (كفاية جداً عشان ما تستهلكش الـ Minutes المجانية)
   schedule:
-    - cron: '0 */4 * * *'
-  # هيسمحلك تشغله يدوي من صفحة Actions
+    - cron: '0 0 * * *'
   workflow_dispatch:
-  # هيشتغل مع كل push على البرانش الرئيسي
   push:
     branches:
-      - main # (أو master لو ده اسم البرانش الرئيسي عندك)
+      - main
+      - master
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # مهم جداً عشان الـ Action يقدر يعمل commit للصورة
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           # ----- الإعدادات الأساسية -----
           user: Hedra-Nabil
           token: ${{ secrets.GITHUB_TOKEN }}
-          config_timezone: Africa/Cairo # ظبطتلك التوقيت عشان الـ streak
+          config_timezone: Africa/Cairo
 
-          # ----- الملف الناتج -----
-          # اسم ملف الصورة اللي هيطلع، هنستخدمه في الخطوة الجاية
-          output_path: github-metrics.svg 
+          # ----- الملف الناتج (مهم جداً) -----
+          filename: github-metrics.svg  # ده الاسم اللي هنستخدمه في الـ README
 
-          # ----- الإضافات (Plugins) -----
-          # دي الإضافات اللي هتظهر في الصورة
-          base: "header, activity, community, repositories, metadata"
+          # ----- المحتوى -----
+          base: header, activity, community, repositories, metadata
           
-          # ----- تخصيص الإضافات -----
+          # ----- الثيم والتصميم -----
+          plugin_theme: tokyonight
+          config_padding: 0, 10%
           
-          # الثيم (زي ما كنت مختار)
-          plugin_theme: tokyonight 
-          
-          # إحصائيات عامة (بديل الصورة الأولى)
-          plugin_stats: yes
-          plugin_stats_total_commits: yes # لحساب كل الكوميتس (زي ما كنت عامل)
-
-          # إحصائيات اللغات (بديل الصورة الأولى)
+          # ----- الإضافات -----
           plugin_languages: yes
-          plugin_languages_limit: 8 # إظهار أكتر 8 لغات
+          plugin_languages_limit: 8
           
-          # الـ Streak (بديل الصورة التانية)
-          plugin_streak: yes 
+          plugin_streak: yes
           
-          # إظهار الكوميتس الخاصة (زي ما كنت عامل)
-          plugin_private: yes 
-
-          # إحصائيات السطور
           plugin_lines: yes
