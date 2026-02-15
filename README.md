@@ -1,24 +1,29 @@
 # 👋 Welcome to My Digital Workspace
 
 <div align="center">
+
   
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hedra+Nabil+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Flutter+Developer+%7C+Cross-Platform+Mobile+Apps;Clean+Architecture+%7C+Fast+Delivery+%7C+Post+Support;Tech+Enthusiast+%26+Problem+Solver)
+
+
 
 </div>
 
 ---
 
-## 👨‍💻 About Me 
+## 👨‍💻 About Me 
 
-> **Passionate Developer | Cross-Platform Specialist | Tech Innovator**
+> **Software Engineer | Mobile Specialist | AI-Powered Solutions**
 
-I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scalable, efficient solutions across multiple platforms. With expertise spanning mobile, web, and backend development, I transform complex problems into elegant, user-friendly applications.
+I'm **Hedra Nabil**, a dedicated software engineer specialized in building scalable, high-performance mobile applications using **Flutter**. I combine my expertise in mobile development with a strong foundation in **Artificial Intelligence** and **DevOps** to create complete, robust technical solutions.
 
-**🎯 What drives me:**
-- 🔭 Building impactful software that solves real-world problems
-- 🌱 Exploring cutting-edge technologies and frameworks
-- 👯 Contributing to open-source communities
-- 💬 Mentoring fellow developers and sharing knowledge
+**🚀 Current Focus & Projects:**
+- 🚚 **"Al-Naqla" (النقلة):** Developing a comprehensive logistics & fleet management SaaS platform using Flutter for mobile/web and Docker for deployment.
+- 🗣️ **"s2s" (Speech-to-Sign):** Creating an accessibility app that integrates AI models with a mobile UI to bridge communication gaps.
+
+**🏆 Certifications:**
+- **Huawei HCIA-AI V4.0** Certified.
 
 ---
 
@@ -26,40 +31,33 @@ I'm **Hedra Nabil**, a dedicated software engineer who thrives on creating scala
 
 <div align="center">
 
-| 📱 Mobile Development | 🎨 Frontend Development | ⚙️ Backend Development |
+| 📱 Flutter & Mobile Core | ⚙️ Backend & DevOps | 🤖 AI & Data Science |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&perline=4" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux&perline=4" /> | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,graphql&perline=4" /> |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&perline=4" /> | <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,nodejs&perline=6" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" /> |
 
-| 🗄️ Databases | 🔧 Dev Tools & DevOps | ☁️ Cloud & Services |
+| 🗄️ Databases | 🏗️ Architecture & Tools | 🌐 Networking Concepts |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&perline=5" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,xd&perline=5" /> | <img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,netlify,aws,gcp&perline=5" /> |
-
-| 📦 Package Managers | 🧪 Testing | 📚 Other Languages |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=npm,yarn,gradle&perline=3" /> | <img src="https://skillicons.dev/icons?i=jest,cypress&perline=3" /> | <img src="https://skillicons.dev/icons?i=java,python,c,cpp&perline=4" /> |
+| <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&perline=5" /> | **Clean Architecture, BLoC/Cubit**<br/><img src="https://skillicons.dev/icons?i=vscode,postman&perline=2" /> | **CCNA Knowledge**<br/>*(VLAN, Subnetting, DNS)* |
 
 </div>
 
 ---
 
-## 💡 Flutter Expertise
+## 🧩 Flutter Expertise Highlights
 
 <div align="center">
 
-| 🧩 State Management | ⚙️ Other State Tools | 🎨 Animation & UI |
+| 🏗️ State Management | 🔌 API & Integration | 🚀 Performance Optimization |
 | :---: | :---: | :---: |
-| **Cubit / Bloc**<br/>*(state transitions, side-effects)* | **Provider, Riverpod, GetX** | **CustomPainter, Animations, Lottie** |
-
-| 💾 Local Storage | 🔌 Native Integration | 🚀 Performance |
-| :---: | :---: | :---: |
-| **Hive, SQLite, SharedPreferences** | **Platform Channels**<br/>*(USB-OTG, servo, mic)* | **Lazy-loading, Isolates**<br/>*(Rebuild optimization)* |
+| **BLoC / Cubit Library**<br/>*(Scalable & Testable)* | **RESTful APIs (Dio)**<br/>**Google Maps & Location Services** | **Lazy Loading & Pagination**<br/>**Isolates for Heavy Tasks** |
 
 </div>
 
-<p align="center"><b>📦 Deployment & CI/CD:</b> Firebase App Distribution, Fastlane, CI pipelines</p>
+<p align="center">
+  <b>📫 Let's Connect:</b> Open to technical collaborations on challenging mobile and AI projects.
+</p>
 
 ---
-
 ## 🏆 Achievements & Stats
 
 <div align="center">
