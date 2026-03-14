@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/main/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
