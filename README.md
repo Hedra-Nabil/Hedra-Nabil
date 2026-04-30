@@ -70,25 +70,40 @@ I'm **Hedra Nabil**, a dedicated software engineer specialized in building scala
 <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="60%" />
 
 <br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Committed Lang" width="90%"/>
-    </td>
-    <td align="center">
-      <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Lang" width="90%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-       <img src="./profile-summary-card-output/2077/3-stats.svg" alt="Stats" width="60%" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Committed Lang" width="100%"/>
+      </td>
+      <td align="center">
+        <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Lang" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+         <img src="./profile-summary-card-output/2077/3-stats.svg" alt="Stats" width="70%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br/>
+
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hedra-nabil&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hedra-nabil" />
+  
+  <br/><br/>
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hedra-nabil&show_icons=true&locale=en&theme=tokyonight" alt="hedra-nabil" />
+
+  <br/><br/>
+
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedra-nabil&theme=tokyonight" alt="hedra-nabil" />
+</div>
 ---
 
 ## 🔥 Contribution Heatmap
