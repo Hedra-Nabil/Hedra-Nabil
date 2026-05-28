@@ -123,7 +123,31 @@ I'm **Hedra Nabil**, a dedicated software engineer specialized in building scala
 | <a href="https://github.com/Hedra-Nabil/BMI_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=BMI_App&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a> | <a href="https://github.com/Hedra-Nabil/movie_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=movie_app&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a> | <a href="https://github.com/Hedra-Nabil/To-Do_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=To-Do_App&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a> |
 
 </div>
+ 🔐 Featured Project — SirrVault
 
+<div align="center">
+
+<a href="https://play.google.com/store/apps/details?id=com.sirrvault.app">
+  <img src="https://img.shields.io/badge/📲%20Download-SirrVault-6C63FF?style=for-the-badge&labelColor=000000"/>
+</a>
+
+<br/><br/>
+
+### 🔐 SirrVault — Password Generator & Saver
+
+A secure and privacy-focused mobile application designed to help users generate strong passwords and store them safely.
+
+✨ Key Features:
+- 🔑 Strong Password Generation
+- 🔒 Secure Password Storage
+- 🛡️ Privacy-Focused Design
+- ⚡ Fast & Simple User Experience
+- 📱 Built with Flutter
+
+📥 **Available on Google Play**  
+https://play.google.com/store/apps/details?id=com.sirrvault.app
+
+</div>
 ---
 
 ## 📊 Social Proof
