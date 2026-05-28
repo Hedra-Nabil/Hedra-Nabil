@@ -113,41 +113,67 @@ I'm **Hedra Nabil**, a dedicated software engineer specialized in building scala
 </div>
 
 ---
+## 🚀 Featured Projects
 
-## 🎯 Featured Projects
+---
 
-<div align="center">
+### 🔐 SirrVault — Password Generator & Secure Storage
 
-| 📱 BMI Calculator | 🎬 Movie Discovery | ✅ Task Management |
-| :---: | :---: | :---: |
-| <a href="https://github.com/Hedra-Nabil/BMI_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=BMI_App&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a> | <a href="https://github.com/Hedra-Nabil/movie_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=movie_app&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a> | <a href="https://github.com/Hedra-Nabil/To-Do_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=To-Do_App&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a> |
+<table>
+  <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.sirrvault.app">
+        <img src="https://img.shields.io/badge/Available%20on-Google%20Play-185FA5?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-Production-0C447C?style=flat-square&logo=flutter&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-</div>
- 🔐 Featured Project — SirrVault
+A secure, privacy-focused mobile app that helps users generate strong passwords and store them safely — no cloud, no tracking.
 
-<div align="center">
+| Feature | Description |
+|---|---|
+| 🔑 Strong Password Generation | Customizable length & complexity |
+| 🔒 Secure Local Storage | Encrypted on-device vault |
+| 🛡️ Privacy-Focused Design | No internet permissions required |
+| ⚡ Fast & Simple UX | Clean interface, instant results |
 
-<a href="https://play.google.com/store/apps/details?id=com.sirrvault.app">
-  <img src="https://img.shields.io/badge/📲%20Download-SirrVault-6C63FF?style=for-the-badge&labelColor=000000"/>
-</a>
+> 📲 **[Download on Google Play](https://play.google.com/store/apps/details?id=com.sirrvault.app)**
 
-<br/><br/>
+---
 
-### 🔐 SirrVault — Password Generator & Saver
+### 📦 Other Projects
 
-A secure and privacy-focused mobile application designed to help users generate strong passwords and store them safely.
-
-✨ Key Features:
-- 🔑 Strong Password Generation
-- 🔒 Secure Password Storage
-- 🛡️ Privacy-Focused Design
-- ⚡ Fast & Simple User Experience
-- 📱 Built with Flutter
-
-📥 **Available on Google Play**  
-https://play.google.com/store/apps/details?id=com.sirrvault.app
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hedra-Nabil/BMI_App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=BMI_App&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </a>
+      <br/>
+      <sub>🏃 Health · Flutter · Dart</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hedra-Nabil/movie_app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=movie_app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </a>
+      <br/>
+      <sub>🎬 Entertainment · Flutter · REST API</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Hedra-Nabil/To-Do_App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=To-Do_App&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </a>
+      <br/>
+      <sub>✅ Productivity · Flutter · Hive</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 Social Proof
