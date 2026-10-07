@@ -477,11 +477,27 @@ The goal is to explore how AI and mobile technology can help reduce communicatio
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Training
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Huawei-HCIA--AI_V4.0-C7000B?style=for-the-badge&logo=huawei&logoColor=white"/>
+| Certification | Issuer | Focus |
+|---|---|---|
+| 🤖 **Huawei HCIA-AI V4.0** | Huawei ICT Academy – Egypt | Artificial Intelligence · Machine Learning |
+| 📱 **Digital Egypt Youth – Mobile App Development** | National Telecommunication Institute (NTI) | Flutter · Mobile Application Development |
+| 💡 **Ideation Program – Certificate of Achievement** | Technology Innovation & Entrepreneurship Center (TIEC) | Creative Ideation · Entrepreneurship · Innovation |
+| 🌱 **Git & GitHub** | Udemy | Git · GitHub · Team Collaboration · Version Control |
+| 🧪 **Agile Testing Strategies** | Udemy | Agile Testing · Testing Strategies · Best Practices |
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Huawei-HCIA--AI%20V4.0-C7000B?style=for-the-badge&logo=huawei&logoColor=white" />
+<img src="https://img.shields.io/badge/NTI-Mobile%20App%20Development-0057B8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TIEC-Ideation%20Program-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Udemy-Git%20%26%20GitHub-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Udemy-Agile%20Testing-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
 
 </div>
 
@@ -507,13 +523,24 @@ The goal is to explore how AI and mobile technology can help reduce communicatio
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Development Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hedra-Nabil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="GitHub Profile Details" width="92%" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%"><img src="./profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" width="100%" /></td>
+<td align="center" width="50%"><img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" width="100%" /></td>
+</tr>
+</table>
 
 </div>
+
+> These cards are stored inside this profile repository, so this section does not depend on an external activity-graph service.
 
 ---
 
@@ -521,7 +548,7 @@ The goal is to explore how AI and mobile technology can help reduce communicatio
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/main/profile-3d-contrib/profile-night-view.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="92%" />
 
 </div>
 
