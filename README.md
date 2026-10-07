@@ -1,232 +1,654 @@
-# 👋 Welcome to My Digital Workspace
+# 👋 Hi, I'm Hedra Nabil
 
 <div align="center">
 
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Backend+%7C+DevOps+%7C+AI;Building+Production-Ready+Systems;From+Mobile+Apps+to+Distributed+Platforms;I+Build.+I+Scale.+I+Solve." />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hedra+Nabil+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Flutter+Developer+%7C+Cross-Platform+Mobile+Apps;Clean+Architecture+%7C+Fast+Delivery+%7C+Post+Support;Tech+Enthusiast+%26+Problem+Solver)
+<br/>
 
-
-
-</div>
-
----
-
-## 👨‍💻 About Me 
-
-> **Software Engineer | Mobile Specialist | AI-Powered Solutions**
-
-I'm **Hedra Nabil**, a dedicated software engineer specialized in building scalable, high-performance mobile applications using **Flutter**. I combine my expertise in mobile development with a strong foundation in **Artificial Intelligence** and **DevOps** to create complete, robust technical solutions.
-
-**🚀 Current Focus & Projects:**
-- 🚚 **"Al-Naqla" (النقلة):** Developing a comprehensive logistics & fleet management SaaS platform using Flutter for mobile/web and Docker for deployment.
-- 🗣️ **"s2s" (Speech-to-Sign):** Creating an accessibility app that integrates AI models with a mobile UI to bridge communication gaps.
-
-**🏆 Certifications:**
-- **Huawei HCIA-AI V4.0** Certified.
-
----
-
-## 🛠 Technical Arsenal
-
-<div align="center">
-
-| 📱 Flutter & Mobile Core | ⚙️ Backend & DevOps | 🤖 AI & Data Science |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&perline=4" /> | <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,nodejs&perline=6" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" /> |
-
-| 🗄️ Databases | 🏗️ Architecture & Tools | 🌐 Networking Concepts |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&perline=5" /> | **Clean Architecture, BLoC/Cubit**<br/><img src="https://skillicons.dev/icons?i=vscode,postman&perline=2" /> | **CCNA Knowledge**<br/>*(VLAN, Subnetting, DNS)* |
-
-</div>
-
----
-
-## 🧩 Flutter Expertise Highlights
-
-<div align="center">
-
-| 🏗️ State Management | 🔌 API & Integration | 🚀 Performance Optimization |
-| :---: | :---: | :---: |
-| **BLoC / Cubit Library**<br/>*(Scalable & Testable)* | **RESTful APIs (Dio)**<br/>**Google Maps & Location Services** | **Lazy Loading & Pagination**<br/>**Isolates for Heavy Tasks** |
-
-</div>
-
-<p align="center">
-  <b>📫 Let's Connect:</b> Open to technical collaborations on challenging mobile and AI projects.
-</p>
-
----
-## 🏆 Achievements & Stats
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hedra-Nabil&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7" width="80%"/>
+<a href="https://www.linkedin.com/in/hedra-nabil-6043221a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-Hedra%20Nabil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:hedranabil614@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201064456538">
+  <img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Hedra-Nabil&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```dart
+class HedraNabil extends SoftwareEngineer {
+  final String location = "Egypt 🇪🇬";
+
+  final List<String> focus = [
+    "Mobile Engineering",
+    "Backend Systems",
+    "DevOps & Infrastructure",
+    "AI Integrations",
+    "Scalable Architecture",
+  ];
+
+  final String philosophy =
+      "Build simple. Design for scale. Automate everything possible.";
+
+  @override
+  void solveProblem() {
+    while (problem.exists) {
+      understand();
+      design();
+      build();
+      test();
+      improve();
+    }
+  }
+}
+```
+
+I'm a **Software Engineer** with a strong background in **Flutter and cross-platform mobile development**, currently expanding deeper into **backend engineering, distributed systems, DevOps, infrastructure and AI-powered automation**.
+
+I enjoy working on systems where multiple disciplines meet:
+
+- 📱 Mobile applications
+- ⚙️ Backend APIs
+- 🧠 AI-powered workflows
+- 🐳 Containerized infrastructure
+- 🚀 CI/CD & deployment
+- 🗄️ Databases & caching
+- 🌐 Production web systems
+- 🔌 Third-party integrations
+- 📊 Monitoring & observability
+
+I don't just like building features.
+
+**I like understanding how the entire system works.**
+
+---
+
+# ⚡ What I'm Building
+
+## 🚘 EgyptLimo — Transportation Technology Platform
+
+One of the systems I'm currently working on is **EgyptLimo**, a transportation and airport-transfer platform built around a multi-service architecture.
+
+The ecosystem includes:
+
+```text
+                         ┌─────────────────────┐
+                         │      Customers      │
+                         └──────────┬──────────┘
+                                    │
+                              Web / Mobile
+                                    │
+                   ┌────────────────▼──────────────┐
+                   │       Application Layer       │
+                   │  Next.js • Flutter • APIs     │
+                   └────────────────┬──────────────┘
+                                    │
+                 ┌──────────────────▼─────────────────┐
+                 │          Backend Services          │
+                 │ Laravel • REST APIs • Integrations │
+                 └───────────┬───────────┬────────────┘
+                             │           │
+                 ┌───────────▼───┐   ┌───▼────────────┐
+                 │ Pricing Engine│   │ Ticket Services │
+                 └───────────┬───┘   └───┬────────────┘
+                             │           │
+                 ┌───────────▼───────────▼───────────┐
+                 │      MySQL • Redis • Workers      │
+                 └────────────────┬──────────────────┘
+                                  │
+                      Docker • Nginx • Cloudflare
+```
+
+### Engineering areas
+
+- Dynamic transportation pricing
+- Airport transfer booking
+- Payment integration
+- Ticketing integrations
+- SEO-driven destination pages
+- Admin & operations dashboards
+- Redis caching
+- Background workers
+- WebSockets
+- Dockerized deployment
+- Cloudflare security
+- Monitoring
+- Infrastructure optimization
+- Automation workflows
+
+> Building software is one thing.  
+> **Keeping it fast, secure and reliable in production is another.**
+
+---
+
+# 🧠 Engineering Interests
+
+<div align="center">
+
+| 📱 Mobile Engineering | ⚙️ Backend Engineering | ☁️ DevOps & Infrastructure |
+|---|---|---|
+| Flutter | Laravel | Docker |
+| Dart | REST APIs | Nginx |
+| BLoC / Cubit | Authentication | Linux |
+| Riverpod | Service Architecture | Cloudflare |
+| Clean Architecture | Redis | CI/CD |
+| Dio | MySQL | Monitoring |
+| Firebase | WebSockets | Reverse Proxy |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🤖 AI & Automation | 🗄️ Data | 🌐 Web |
+|---|---|---|
+| Python | MySQL | Next.js |
+| AI APIs | PostgreSQL | React |
+| LLM Integrations | MongoDB | SSR / ISR |
+| n8n | Redis | PWA |
+| TensorFlow | SQLite | SEO Architecture |
+| PyTorch | Geospatial Queries | API Integration |
+
+</div>
+
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=dart,python,php,javascript,typescript,bash&perline=10" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio&perline=10" />
+
+### Backend & Web
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,nextjs,react&perline=10" />
+
+### Databases & Caching
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&perline=10" />
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,cloudflare,githubactions,git,github&perline=10" />
+
+### AI & Tools
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,vscode,postman&perline=10" />
+
+</div>
+
+---
+
+# 📱 Flutter Engineering
+
+Flutter is where much of my software engineering journey started, and it remains one of my strongest areas.
+
+### Architecture
+
+```text
+Presentation
+     │
+     ▼
+State Management
+     │
+     ▼
+Domain Layer
+     │
+     ▼
+Repository
+     │
+     ▼
+Data Sources
+     │
+     ├── REST APIs
+     ├── Local Storage
+     ├── Firebase
+     └── Platform Services
+```
+
+### Experience includes
+
+- Clean Architecture
+- BLoC / Cubit
+- Riverpod
+- Dependency Injection
+- REST APIs
+- Dio
+- Authentication flows
+- Pagination
+- Caching
+- Local persistence
+- Google Maps
+- Location services
+- Background processing
+- Isolates
+- Responsive UI
+- Android release pipelines
+- Production debugging
+
+---
+
+# 🏗️ How I Think About Software
+
+I prefer systems that are:
+
+```text
+Readable
+   ↓
+Maintainable
+   ↓
+Testable
+   ↓
+Observable
+   ↓
+Automated
+   ↓
+Scalable
+```
+
+My approach is simple:
+
+> **Don't introduce complexity because it looks impressive.  
+> Introduce complexity only when the problem actually requires it.**
+
+That applies to everything from Flutter architecture to backend services and infrastructure.
+
+---
+
+# 🔌 APIs & Integrations
+
+I enjoy connecting systems together.
+
+Some areas I work with include:
+
+```text
+REST APIs
+   │
+   ├── Mobile Apps
+   ├── Web Applications
+   ├── Payment Providers
+   ├── Maps / Geolocation
+   ├── Transportation Platforms
+   ├── Automation Services
+   ├── AI APIs
+   └── Internal Microservices
+```
+
+A good integration isn't just:
+
+```http
+POST /api/v1/something
+```
+
+It also needs:
+
+- Authentication
+- Retry strategies
+- Idempotency
+- Error handling
+- Logging
+- Monitoring
+- Rate limiting
+- Validation
+- Security
+- Graceful failure
+
+---
+
+# ☁️ DevOps & Infrastructure
+
+I'm increasingly interested in the infrastructure behind production applications.
+
+```text
+                Internet
+                    │
+                    ▼
+              Cloudflare
+                    │
+                    ▼
+                  Nginx
+                    │
+             ┌──────┴──────┐
+             │             │
+             ▼             ▼
+        Application     Services
+             │             │
+             └──────┬──────┘
+                    ▼
+            Redis / Database
+                    │
+                    ▼
+              Monitoring
+```
+
+Areas I work with:
+
+- VPS administration
+- Ubuntu/Linux
+- Docker
+- Docker Compose
+- Nginx
+- Reverse proxies
+- SSL
+- DNS
+- Cloudflare
+- WAF rules
+- Rate limiting
+- Redis
+- MySQL
+- Deployment workflows
+- GitHub Actions
+- Server monitoring
+- Performance troubleshooting
+
+---
+
+# 🤖 AI & Automation
+
+I'm interested in using AI where it creates **real operational value**, not just adding an AI badge to a product.
+
+Examples:
+
+- AI assistants
+- LLM API integrations
+- Workflow automation
+- Data extraction
+- Smart customer support
+- Automated monitoring
+- AI-assisted development
+- Speech processing
+- Accessibility applications
+
+I also experiment with **n8n** for building automation pipelines that connect APIs, databases and AI services together.
+
+```text
+Trigger
+  ↓
+Collect Data
+  ↓
+Process
+  ↓
+AI / Business Logic
+  ↓
+Store / Execute
+  ↓
+Notify
+```
+
+---
+
+# 🌟 Featured Projects
+
+## 🔐 SirrVault
+
+### Password Generator & Secure Local Vault
+
+<a href="https://play.google.com/store/apps/details?id=com.sirrvault.app">
+  <img src="https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Flutter-Production_App-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
 <br/><br/>
 
-<img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="60%" />
+A privacy-focused application for securely generating and storing passwords directly on the user's device.
 
-<br/>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Committed Lang" width="100%"/>
-      </td>
-      <td align="center">
-        <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Lang" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-         <img src="./profile-summary-card-output/2077/3-stats.svg" alt="Stats" width="70%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hedra-nabil&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hedra-nabil" />
-  
-  <br/><br/>
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hedra-nabil&show_icons=true&locale=en&theme=tokyonight" alt="hedra-nabil" />
-
-  <br/><br/>
-
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedra-nabil&theme=tokyonight" alt="hedra-nabil" />
-</div>
----
-
-## 🔥 Contribution Heatmap
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/main/profile-3d-contrib/profile-night-view.svg" alt="3D Heatmap" width="80%"/>
-</div>
-
----
-## 🚀 Featured Projects
-
----
-
-### 🔐 SirrVault — Password Generator & Secure Storage
-
-<table>
-  <tr>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.sirrvault.app">
-        <img src="https://img.shields.io/badge/Available%20on-Google%20Play-185FA5?style=for-the-badge&logo=google-play&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-Production-0C447C?style=flat-square&logo=flutter&logoColor=white" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-A secure, privacy-focused mobile app that helps users generate strong passwords and store them safely — no cloud, no tracking.
+### 🔐 Key Features
 
 | Feature | Description |
 |---|---|
-| 🔑 Strong Password Generation | Customizable length & complexity |
-| 🔒 Secure Local Storage | Encrypted on-device vault |
-| 🛡️ Privacy-Focused Design | No internet permissions required |
-| ⚡ Fast & Simple UX | Clean interface, instant results |
-
-> 📲 **[Download on Google Play](https://play.google.com/store/apps/details?id=com.sirrvault.app)**
+| 🔑 Password Generator | Generate customizable strong passwords |
+| 🔒 Secure Storage | Encrypted local password vault |
+| 🛡️ Privacy First | Designed without unnecessary tracking |
+| ⚡ Performance | Fast and lightweight experience |
+| 📱 Mobile First | Built using Flutter |
 
 ---
 
-### 📦 Other Projects
+## 🚚 Al-Naqla — Logistics Platform
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hedra-Nabil/BMI_App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=BMI_App&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-      <br/>
-      <sub>🏃 Health · Flutter · Dart</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hedra-Nabil/movie_app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=movie_app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-      <br/>
-      <sub>🎬 Entertainment · Flutter · REST API</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hedra-Nabil/To-Do_App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=To-Do_App&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-      <br/>
-      <sub>✅ Productivity · Flutter · Hive</sub>
-    </td>
-  </tr>
-</table>
+A logistics and fleet-management project exploring:
+
+- Fleet operations
+- Driver workflows
+- Shipment management
+- Mobile applications
+- Web dashboards
+- Containerized services
+- Scalable architecture
+
 ---
 
-## 📊 Social Proof
+## 🗣️ Speech-to-Sign
+
+Accessibility-focused experimentation combining:
+
+```text
+Speech
+  ↓
+AI Processing
+  ↓
+Language Interpretation
+  ↓
+Sign Representation
+  ↓
+Flutter Interface
+```
+
+The goal is to explore how AI and mobile technology can help reduce communication barriers.
+
+---
+
+# 🧪 Other Projects
 
 <div align="center">
 
-<a href="https://github.com/Hedra-Nabil?tab=repositories">
-  <img src="https://img.shields.io/badge/Total_Repos-22-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+<a href="https://github.com/Hedra-Nabil/BMI_App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=BMI_App&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Hedra-Nabil?tab=followers">
-  <img src="https://img.shields.io/github/followers/Hedra-Nabil?label=Followers&style=for-the-badge&logo=github&color=blue&labelColor=000000" />
+
+<a href="https://github.com/Hedra-Nabil/movie_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=movie_app&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Hedra-Nabil">
-  <img src="https://img.shields.io/github/stars/Hedra-Nabil?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow&labelColor=000000" />
+
+<a href="https://github.com/Hedra-Nabil/To-Do_App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=To-Do_App&theme=tokyonight&hide_border=true" />
 </a>
+
+</div>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Huawei-HCIA--AI_V4.0-C7000B?style=for-the-badge&logo=huawei&logoColor=white"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Hedra-Nabil&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Snake Animation
+# 🏆 GitHub Trophies
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-light.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-dark.svg" />
-  </picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hedra-Nabil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
 </div>
 
 ---
 
-## 📬 Let's Connect
+# 🔥 Contribution Activity
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/main/profile-3d-contrib/profile-night-view.svg" width="90%" />
+
+</div>
+
+---
+
+# 🐍 Contributions
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-light.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Hedra-Nabil/Hedra-Nabil/output/snake-dark.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+# 💡 Current Learning & Exploration
+
+```yaml
+currently_exploring:
+  architecture:
+    - Distributed Systems
+    - Microservices
+    - Event-Driven Architecture
+
+  infrastructure:
+    - Load Balancing
+    - High Availability
+    - Container Orchestration
+    - Kubernetes
+
+  backend:
+    - Service Separation
+    - Queue Architecture
+    - Caching Strategies
+    - Database Scaling
+
+  ai:
+    - LLM Applications
+    - AI Agents
+    - Workflow Automation
+```
+
+---
+
+# 🎯 Engineering Goals
+
+I'm continuously working toward becoming an engineer capable of taking a product through the entire lifecycle:
+
+```text
+Idea
+ ↓
+Architecture
+ ↓
+Development
+ ↓
+Testing
+ ↓
+Deployment
+ ↓
+Monitoring
+ ↓
+Scaling
+ ↓
+Optimization
+```
+
+Not only:
+
+> **"How do I implement this feature?"**
+
+but also:
+
+> **"How will this behave with real users, real traffic and real production failures?"**
+
+---
+
+# 🤝 Let's Build Something
+
+I'm always interested in:
+
+- Interesting software projects
+- Mobile applications
+- Backend systems
+- SaaS platforms
+- AI integrations
+- Automation
+- Infrastructure challenges
+- Open-source collaboration
+
+<div align="center">
+
+### 📫 Connect With Me
 
 <a href="mailto:hedranabil614@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://wa.me/201064456538">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/hedra-nabil-6043221a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💫 *"Great software is built by passionate developers who never stop learning"*
+### 💫
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+**"The best engineers don't just write code.  
+They understand the system around it."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7F00FF,100:FF006E&height=120&section=footer"/>
 
 </div>
