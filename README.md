@@ -10,11 +10,11 @@
  
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7F00FF,100:FF006E&height=2&section=header" width="100%"/>
-## 🚀 About Me
+<h2>🚀 About Me</h2>
  
 ```dart
 class HedraNabil extends SoftwareEngineer {
-  final String location = "Egypt 🇪🇬";
+  final String location = "Egypt";
  
   final List<String> focus = [
     "Mobile Engineering",
@@ -36,32 +36,33 @@ I like working where multiple disciplines meet — mobile apps, backend APIs, AI
 > **I don't just like building features. I like understanding how the entire system works.**
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7F00FF,100:FF006E&height=2&section=header" width="100%"/>
-## ⚡ What I'm Building
+<h2>⚡ What I'm Building</h2>
  
 ### 🚘 EgyptLimo — Transportation Technology Platform
  
 A transportation and airport-transfer platform built around a multi-service architecture.
  
 ```text
-                    ┌─────────────────────┐
-                    │      Customers      │
-                    └──────────┬──────────┘
-                          Web / Mobile
-                ┌──────────────▼──────────────┐
-                │      Application Layer      │
-                │  Next.js • Flutter • APIs   │
-                └──────────────┬──────────────┘
-              ┌────────────────▼────────────────┐
-              │         Backend Services        │
-              │ Laravel • REST APIs • Integr.   │
-              └──────────┬───────────┬──────────┘
-                ┌────────▼──┐   ┌────▼─────────┐
-                │  Pricing  │   │   Tickets    │
-                └────────┬──┘   └────┬─────────┘
-              ┌──────────▼───────────▼──────────┐
-              │     MySQL • Redis • Workers     │
-              └────────────────┬────────────────┘
-                   Docker • Nginx • Cloudflare
+        ┌──────────────────────────────┐
+        │          Customers           │
+        └──────────────┬───────────────┘
+                       │  Web / Mobile
+        ┌──────────────▼───────────────┐
+        │       Application Layer      │
+        │    Next.js • Flutter • APIs  │
+        └──────────────┬───────────────┘
+        ┌──────────────▼───────────────┐
+        │       Backend Services       │
+        │ Laravel • REST • Integration │
+        └───────┬──────────────┬───────┘
+         ┌──────▼─────┐  ┌─────▼──────┐
+         │  Pricing   │  │  Tickets   │
+         └──────┬─────┘  └─────┬──────┘
+        ┌───────▼──────────────▼───────┐
+        │    MySQL • Redis • Workers   │
+        └──────────────┬───────────────┘
+                       │
+          Docker • Nginx • Cloudflare
 ```
  
 **Engineering areas:** dynamic pricing · airport transfer booking · payments · ticketing integrations · SEO destination pages · admin dashboards · Redis caching · background workers · WebSockets · Dockerized deployment · Cloudflare security · monitoring · automation.
@@ -69,24 +70,20 @@ A transportation and airport-transfer platform built around a multi-service arch
 > Building software is one thing. **Keeping it fast, secure and reliable in production is another.**
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7F00FF,100:FF006E&height=2&section=header" width="100%"/>
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
  
 <div align="center">
-| 📱 Mobile | ⚙️ Backend | ☁️ DevOps | 🤖 AI & Automation | 🗄️ Data | 🌐 Web |
-|---|---|---|---|---|---|
-| Flutter | Laravel | Docker | Python | MySQL | Next.js |
-| Dart | REST APIs | Nginx | LLM APIs | PostgreSQL | React |
-| BLoC / Cubit | WebSockets | Linux | n8n | MongoDB | SSR / ISR |
-| Riverpod | Auth | Cloudflare | TensorFlow | Redis | PWA |
-| Firebase | Service Architecture | CI/CD | PyTorch | SQLite | SEO |
- 
+<table>
+<tr><th>📱 Mobile</th><th>⚙️ Backend</th><th>☁️ DevOps</th><th>🤖 AI & Automation</th><th>🗄️ Data</th><th>🌐 Web</th></tr>
+<tr><td align="center" valign="top">Flutter<br/>Dart<br/>BLoC / Cubit<br/>Riverpod<br/>Firebase</td><td align="center" valign="top">Laravel<br/>REST APIs<br/>WebSockets<br/>Auth<br/>Service Architecture</td><td align="center" valign="top">Docker<br/>Nginx<br/>Linux<br/>Cloudflare<br/>CI/CD</td><td align="center" valign="top">Python<br/>LLM APIs<br/>n8n<br/>TensorFlow<br/>PyTorch</td><td align="center" valign="top">MySQL<br/>PostgreSQL<br/>MongoDB<br/>Redis<br/>SQLite</td><td align="center" valign="top">Next.js<br/>React<br/>SSR / ISR<br/>PWA<br/>SEO</td></tr>
+</table>
 <br/>
 <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,php,laravel,nodejs,nextjs,react,typescript,javascript,bash&perline=12" />
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,docker,nginx,linux,cloudflare,githubactions,git,github,tensorflow,pytorch,vscode,postman&perline=16" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7F00FF,100:FF006E&height=2&section=header" width="100%"/>
-## 🌟 Featured Projects
+<h2>🌟 Featured Projects</h2>
  
 ### 🔐 SirrVault — Password Generator & Secure Local Vault
  
@@ -112,7 +109,7 @@ Fleet operations, driver workflows, shipment management, mobile apps, web dashbo
  
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7F00FF,100:FF006E&height=2&section=header" width="100%"/>
-## 🏗️ How I Think About Software
+<h2>🏗️ How I Think About Software</h2>
  
 ```text
 Readable → Maintainable → Testable → Observable → Automated → Scalable
@@ -126,7 +123,7 @@ Readable → Maintainable → Testable → Observable → Automated → Scalable
 **AI:** used where it creates real operational value — assistants, LLM integrations, n8n workflows, speech processing, accessibility.
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7F00FF,100:FF006E&height=2&section=header" width="100%"/>
-## 🏆 Certifications & Training
+<h2>🏆 Certifications & Training</h2>
  
 <div align="center">
 <img src="https://img.shields.io/badge/Huawei-HCIA--AI%20V4.0-C7000B?style=for-the-badge&logo=huawei&logoColor=white" />
@@ -136,7 +133,7 @@ Readable → Maintainable → Testable → Observable → Automated → Scalable
 <img src="https://img.shields.io/badge/Udemy-Agile%20Testing-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7F00FF,100:FF006E&height=2&section=header" width="100%"/>
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
  
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&count_private=true&theme=transparent&bg_color=070A14&title_color=00D9FF&text_color=C9D1D9&icon_color=7F00FF&border_color=1B3A6B&hide_border=false"/>
@@ -154,7 +151,7 @@ Readable → Maintainable → Testable → Observable → Automated → Scalable
 </picture>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7F00FF,100:FF006E&height=2&section=header" width="100%"/>
-## 💡 Currently Exploring
+<h2>💡 Currently Exploring</h2>
  
 ```yaml
 architecture: [Distributed Systems, Microservices, Event-Driven Architecture]
